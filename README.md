@@ -21,6 +21,12 @@ NO | mastergberry | kwwham,nickabrahan | A gui version of the Chinese board game
   W16  | laurendumapias, liujeffreyk | A gui version of the Chinese board game called Go
 ```
 
+
+#F16 Final Remarks
+
+#<b> The Current State of the Project </b>
+
+
 #W16 Final Remarks
 
 # The Current State of the Project
